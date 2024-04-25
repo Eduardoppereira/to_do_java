@@ -14,9 +14,7 @@ Criar um sistema de gerenciamento de tarefas em Java.
 <br>
 
 ## Guia de instalação e configuração de ambiente
-[[CLIQUE AQUI]()
-<br>
-
+[CLIQUE AQUI](https://github.com/Eduardoppereira/to_do_java/blob/master/.github/SETUP.md)
 
 ## Resultado
 <p align="center">
@@ -70,6 +68,9 @@ Create a task management system in Java.
 ## Tools
 [![Java](https://img.shields.io/badge/java-000?style=for-the-badge&logo=java&logoColor=FFDD02)](https://www.java.com/pt-BR/)
 <br>
+
+## Environment Installation and Configuration Guide
+[CLICK HERE](https://github.com/Eduardoppereira/to_do_java/blob/master/.github/SETUP.md)
 
 ## Developer
 <table>
