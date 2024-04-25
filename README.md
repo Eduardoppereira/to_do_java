@@ -1,16 +1,16 @@
 <h1>
     <a href="https://www.dio.me/">
-     <img align="center" width="40px" src="https://img.shields.io/badge/java-000?style=for-the-badge&logo=java"></a>
-    <span> Relatório Sample Financial em Power Bi </span>
+     <img align="center" width="40px" src="https://github.com/Eduardoppereira/to_do_java/blob/master/java.svg"></a>
+    <span> Sistema de Gerenciamento de Tarefas </span>
 </h1>
 
-Repositório criado para desenvolvimento pessoal, com apoio do curso **Power bi Analyst** da [Digital Innovation One](https://www.dio.me/).
+Imagine que você é responsável por desenvolver um sistema de gerenciamento de tarefas para ajudar as pessoas a organizarem suas atividades diárias. O sistema deve permitir aos usuários criar, visualizar, editar e excluir tarefas, bem como categorizá-las para uma melhor organização.
 
 ## Objetivo
-Apresentar um relatório completo no Power Bi, com diversos gráficos, cartões, KPIs e com storytelling.
+Criar um sistema de gerenciamento de tarefas em Java.
 
 ## Ferramentas
-[![Power Bi](https://img.shields.io/badge/power_bi-000?style=for-the-badge&logo=powerbi&logoColor=FFDD02)](https://www.microsoft.com/pt-br/power-platform/products/power-bi)
+[![Java](https://img.shields.io/badge/java-000?style=for-the-badge&logo=java&logoColor=FFDD02)](https://www.java.com/pt-BR/)
 <br>
 
 ## Desenvolvedor
@@ -47,16 +47,16 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue para d
 <h1>
     <a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Sample Financial Report in Power Bi </span>
+    <span> Task Management System </span>
 </h1>
 
-Repository created for personal development, with support from the **Power bi Analyst** course from [Digital Innovation One](https://www.dio.me/).
+Imagine that you are responsible for developing a task management system to help people organize their daily activities. The system should allow users to create, view, edit and delete tasks, as well as categorize them for better organization.
 
 ## Goal
-Present a complete report in Power Bi, with various graphs, cards, KPIs and storytelling.
+Create a task management system in Java.
 
 ## Tools
-[![Power Bi](https://img.shields.io/badge/power_bi-000?style=for-the-badge&logo=powerbi&logoColor=FFDD02)](https://www.microsoft.com/pt-br/power-platform/products/power-bi)
+[![Java](https://img.shields.io/badge/java-000?style=for-the-badge&logo=java&logoColor=FFDD02)](https://www.java.com/pt-BR/)
 <br>
 
 ## Developer
