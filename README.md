@@ -13,6 +13,11 @@ Criar um sistema de gerenciamento de tarefas em Java.
 [![Java](https://img.shields.io/badge/java-000?style=for-the-badge&logo=java&logoColor=FFDD02)](https://www.java.com/pt-BR/)
 <br>
 
+## Resultado
+<p align="center">
+  <img alt="Preview do projeto desenvolvido." src="https://github.com/Eduardoppereira/check-in/blob/main/Captura%20de%20tela.png" width="60%">
+</p>
+
 ## Desenvolvedor
 <table>
   <tr>
