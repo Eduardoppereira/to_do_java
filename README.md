@@ -13,9 +13,18 @@ Criar um sistema de gerenciamento de tarefas em Java.
 [![Java](https://img.shields.io/badge/java-000?style=for-the-badge&logo=java&logoColor=FFDD02)](https://www.java.com/pt-BR/)
 <br>
 
+## Guia de instalação e configuração de ambiente
+[[CLIQUE AQUI]()
+<br>
+
+
 ## Resultado
 <p align="center">
-  <img alt="Preview do projeto desenvolvido." src="https://github.com/Eduardoppereira/check-in/blob/main/Captura%20de%20tela.png" width="60%">
+  <img alt="Preview do projeto desenvolvido." src="https://github.com/Eduardoppereira/to_do_java/blob/master/print_nova_tarefa.png" width="60%">
+</p>
+
+<p align="center">
+  <img alt="Preview do projeto desenvolvido." src="https://github.com/Eduardoppereira/to_do_java/blob/master/print_lista_de_tarefas.png" width="60%">
 </p>
 
 ## Desenvolvedor
@@ -44,8 +53,6 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue para d
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/eduardopedrosap)
 <a href = "https://www.instagram.com/eduardo_01511/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "https://www.linkedin.com/in/eduardo-pedrosap/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
-
 
 # English version
 
